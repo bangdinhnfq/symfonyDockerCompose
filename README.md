@@ -1,5 +1,10 @@
 # Symfony Docker Compose
 
+<p style="text-align:center">
+  <img src="thumbnail.png"  alt="thumbnail"/>
+</p>
+
+
 The example project for 
 - Symfony 6.1
 - PHP 8.1 
