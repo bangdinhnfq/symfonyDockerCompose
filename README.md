@@ -1,10 +1,11 @@
 # Symfony Docker Compose
 
+WARNING: This project only for learning purpose, **DO NOT USE IT ON PRODUCTION**
+
 <p align="center">
   <img src="thumbnail.png" width="550" alt="thumbnail"/>
 </p>
 
-WARNING: This project only for learning purpose, **DO NOT USE IT ON PRODUCTION**
 
 The example project for 
 - Symfony 6.1
