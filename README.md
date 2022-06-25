@@ -1,9 +1,10 @@
 # Symfony Docker Compose
 
 <p style="text-align:center">
-  <img src="thumbnail.png"  alt="thumbnail"/>
+  <img src="thumbnail.png" width="350" alt="thumbnail"/>
 </p>
 
+WARNING: This project only for learning purpose, **DO NOT USE IT ON PRODUCTION**
 
 The example project for 
 - Symfony 6.1
@@ -72,6 +73,17 @@ DATABASE_URL="mysql://root:root@mariadb:3306/app"
 ```
 ./phpdocker/php-fpm/php-ini-overrides.ini
 ```
+4. Access to webserver
+
+The location is: http://localhost:8000/
+
+5. Connect to MariaDB 
+
+- Host: 127.0.0.1
+- Port: 8003
+- User: app
+- Password: root
+
 
 ## License
 
