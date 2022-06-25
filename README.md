@@ -1,6 +1,6 @@
 # Symfony Docker Compose
 
-<p style="text-align:center">
+<p align="center">
   <img src="thumbnail.png" width="350" alt="thumbnail"/>
 </p>
 
@@ -35,7 +35,7 @@ Download and install Docker & Docker Compose at https://docs.docker.com/get-dock
  ⠿ Container symfonydockercompose-webserver-1  Started                                                                                                                                                           0.8s
  ```
 
-2. List all containers running
+2. List all running containers 
 
 ```
 ➜  symfonyDockerCompose git:(main) ✗ docker ps
