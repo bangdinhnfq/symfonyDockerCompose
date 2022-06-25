@@ -1,7 +1,7 @@
 # Symfony Docker Compose
 
 <p align="center">
-  <img src="thumbnail.png" width="350" alt="thumbnail"/>
+  <img src="thumbnail.png" width="550" alt="thumbnail"/>
 </p>
 
 WARNING: This project only for learning purpose, **DO NOT USE IT ON PRODUCTION**
